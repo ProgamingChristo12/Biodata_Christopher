@@ -1,0 +1,15 @@
+<resources>
+
+    <string-array name="kota_array">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Bekasi</item>
+        <item>Tanggerang</item>
+        <item>Tanggerang Selatan</item>
+        <item>Solo</item>
+        <item>Semarang</item>
+        <item>Surabaya</item>
+        <item>Jayapura</item>
+    </string-array>
+
+</resources>
